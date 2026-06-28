@@ -1,60 +1,111 @@
 ### Hello, World!! 👋
 
-I'm Achiley D. Lacroix, a dedicated and enthusiastic cybersecurity analyst and software engineer with a background in development. My journey combines training, hands-on experience, and a deep commitment to securing and developing innovative software solutions.
+❯ whoami
 
-## About Me
+I'm Achiley D. Lacroix, a Software Engineer focused on **Security Automation**, **DevSecOps**, and **AWS**, passionate about building solutions that make security more scalable, efficient, and developer-friendly.
 
-### Cybersecurity Analyst
-My experience in the field of cybersecurity includes vulnerability management and pentesting.
+My work sits at the intersection of **software engineering**, **cybersecurity**, and **cloud technologies**, where I design and develop automation that reduces manual effort, streamlines security operations, and enables engineering teams to focus on what matters most.
 
-### Software Engineer
-As a trained software engineer, I have a solid foundation in software development principles and practices. My skills allow me to design, develop, and maintain software solutions.
+I enjoy turning complex security processes into scalable automation. I believe the best security solutions are those that reduce manual effort, empower engineering teams, and seamlessly integrate into the software development lifecycle.
 
-### Developer Experience
-My development experience includes working with modern frameworks and tools.
+---
 
-## Skills
+## 🚀 About Me
 
-- **Cybersecurity**: Vulnerability assessment, penetration testing.
-- **Software Engineering**: System design and algorithm development.
-- **Programming Languages**: Java, Kotlin, Python, SQL.
-- **Frameworks and Tools**: Spring Boot, Docker, Maven.
-- **Version Control**: Git, GitHub.
+* 💻 Software Engineer with a background in backend development and cybersecurity
+* 🔐 Specialized in Security Automation and Vulnerability Management
+* ☁️ Working with AWS and cloud-native security solutions
+* 🐍 Python enthusiast with experience building internal security applications and automation
+* 🤖 Interested in AI-driven security automation and intelligent workflows
+* 📚 Continuously learning DevSecOps, Cloud Security and AWS architecture
 
-## Certifications
+---
 
-![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
-- (https://www.credly.com/badges/1facd1a1-6a61-4ded-8393-850d8f046b55/public_url)
-- **AWS Certified Cloud Practitioner**: Validates foundational cloud knowledge and AWS services.
-  
-## Education
+## 🛠️ Tech Stack
 
-- **Bachelor’s Degree in Software Engineering**: Comprehensive training in software development, system design, and computer science fundamentals.
+### Languages
 
+* Python
+* Java
+* Kotlin
+* SQL
 
-Thank you for visiting my profile!
+### Cloud & Infrastructure
 
+* AWS
+* Terraform
+* Docker
+* Linux
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ach-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Ach-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Ach-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
- <img align="center" alt="Ach-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Ach-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Ach-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Ach-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Ach-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Ach-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Ach-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ach-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:ach.dlacroix@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/achiley-dlacroix/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <!--![Snake animation](https://github.com/achileyd/achileyd/blob/output/github-contribution-grid-snake.svg)-->
- 
-</div>
+### Security
+
+* Security Automation
+* Vulnerability Management
+* DevSecOps
+* AWS Security
+* PCI Compliance
+* Incident Triage
+
+### Databases
+
+* MySQL
+* Postgres
+
+### Other
+
+* Git
+* REST APIs
+* Software Architecture
+* Agile
+* Product Ownership
+
+---
+
+## 🌱 Currently Learning
+
+I'm continuously expanding my knowledge in:
+
+* Advanced AWS Security
+* DevSecOps
+* Cloud Security and Architecture
+* AI for Security Automation
+* Agentic AI Workflows
+
+---
+
+## 📈 What I Enjoy Building
+
+I enjoy creating solutions that:
+
+* Automate repetitive security tasks
+* Integrate multiple security tools
+* Improve vulnerability management processes
+* Reduce operational overhead
+* Help engineering teams work more securely and efficiently
+
+---
+
+## 🎯 Career Goals
+
+My goal is to continue growing as a Security Automation Engineer, combining software engineering, cloud technologies, AWS and AI to build modern, scalable and secure solutions.
+
+I'm particularly interested in opportunities involving:
+
+* Security Automation
+* DevSecOps
+* Cloud Security
+* AWS
+* Platform Engineering
+
+## 🏅 Certifications
+
+![AWS Certified Cloud Practitioner](https://images.credly.com/size/170x170/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+- [View Credential](https://www.credly.com/badges/1facd1a1-6a61-4ded-8393-850d8f046b55/public_url)
+
+## 🎓 Education
+
+- **Bachelor of Software Engineering**: Comprehensive training in software development, system design, and computer science fundamentals.
+
+---
+
+Thanks for visiting my profile! 🚀
